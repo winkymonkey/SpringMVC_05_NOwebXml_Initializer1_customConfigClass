@@ -5,10 +5,10 @@
 	
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>cm.example.spring.mvc</groupId>
-	<artifactId>POC_SpringMVC_05_NOwebXml_Initializer1_customConfigClass</artifactId>
+	<artifactId>SpringMVC_05_NOwebXml_Initializer1_customConfigClass</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>POC_SpringMVC_05_NOwebXml_Initializer1_customConfigClass</name>
+	<name>SpringMVC_05_NOwebXml_Initializer1_customConfigClass</name>
 
 	<properties>
 		<java.version>1.8</java.version>
